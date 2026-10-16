@@ -1,0 +1,20 @@
+{
+  "upstream": "blackmatrix7/ios_rule_script",
+  "observedUpstreamRef": "master",
+  "observedUpstreamCommit": "933875d42861a7fdfd9f945cd18605d74fa7e943",
+  "licenseCommit": "933875d42861a7fdfd9f945cd18605d74fa7e943",
+  "capturedAt": "2026-10-16T16:19:39.342059+00:00",
+  "updateMode": "manual review only; no automatic upstream merge or workflow",
+  "provenanceNote": "Rule server/CDN bytes were captured separately. The observed source commit does not prove that dynamic server artifacts were built from that commit.",
+  "files": [
+    {
+      "path": "rule/Surge/OpenAI/OpenAI.list",
+      "url": "https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script/rule/Surge/OpenAI/OpenAI.list",
+      "type": "RULE-SET",
+      "status": "ok",
+      "bytes": 1353,
+      "entries": 35,
+      "sha256": "6f4047cdbf6953cf5d9b38c4ccd6da7bc6f1acb91b7a87134f25d5b8f5d2408b"
+    }
+  ]
+}
